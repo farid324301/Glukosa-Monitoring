@@ -80,13 +80,13 @@ This allows the daily monitoring process to remain simple while the analytical l
 # Data Structure
 
 The workbook follows an Input → Processing → Output architecture.
-> ![Structure](image/data_structure.png)
+> ![Structure](Image/data_structure.png)
 
 ## 1. Daily Log
 
 The Daily Log is the primary data-entry sheet.
 
-> ![Daily Log](image/log.png)
+> ![Daily Log](Image/log.png)
 
 The main variables include:
 
@@ -105,7 +105,7 @@ I intentionally kept this section simple because the person entering the data sh
 
 ## 2. Dashboard Data
 
-> ![Dashboard Data](image/data_dashboard.png)
+> ![Dashboard Data](Image/data_dashboard.png)
 
 The Dashboard Data sheet acts as an intermediate processing layer.
 
@@ -125,7 +125,7 @@ Separating this layer from the daily input sheet also makes the workbook easier 
 
 ## 3. Dashboard
 
-> ![Dashboard](image/dashboard.png)
+> ![Dashboard](Image/dashboard.png)
 
 
 The Dashboard is the main analytical interface.
@@ -211,7 +211,7 @@ This taught me an important lesson as a Data Analyst:
 
 # Doctor Summary
 
-> ![Doctor Summary](image/ringkasan.png)
+> ![Doctor Summary](Image/ringkasan.png)
 
 The Doctor Summary was created to make the monitoring data easier to review before a medical consultation.
 
